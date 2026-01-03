@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="md:col-span-2">
             <img 
-              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/mjjkgo7i_logo.png" 
+              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/nzcb0kgu_logo.png" 
               alt="livzyinteriors" 
               className="h-32 w-auto mb-4"
             />
