@@ -35,7 +35,7 @@ const PlywoodBrands = () => {
             <span className="text-sm font-medium text-orange-600">Premium Materials</span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Trusted Material Brands We Use
+            We use Trusted Material Brands
           </h2>
           <p className="text-lg text-gray-600">
             We maintain strategic partnerships with India's leading plywood, laminates, and hardware manufacturers, ensuring uncompromising quality in every project we undertake.
