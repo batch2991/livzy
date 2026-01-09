@@ -9,9 +9,9 @@ const Footer = () => {
           {/* Company Info */}
           <div className="md:col-span-2">
             <img 
-              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/ngutz7c2_LIVZY%20INTERIORS%20LOGO.png" 
+              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/5slt9gy9_logo3.png" 
               alt="livzyinteriors" 
-              className="h-24 w-auto mb-4"
+              className="h-32 w-auto mb-4"
             />
             <p className="text-gray-400 mb-6 leading-relaxed">
               Transform your space with India's trusted interior design partner. We bring innovation, quality, and style to every project.
