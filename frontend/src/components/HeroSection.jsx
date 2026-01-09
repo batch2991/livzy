@@ -14,9 +14,9 @@ const HeroSection = () => {
           {/* Left Content */}
           <div className="space-y-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-              Transform Your
+              Dream Home
               <span className="block mt-2 bg-gradient-to-r from-amber-500 to-orange-600 bg-clip-text text-transparent">
-                Dream Home
+                Made Real
               </span>
             </h1>
             
