@@ -21,7 +21,7 @@ const Header = () => {
             <img 
               src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/ngutz7c2_LIVZY%20INTERIORS%20LOGO.png" 
               alt="livzyinteriors" 
-              className="h-16 w-auto"
+              className="h-14 w-auto"
             />
           </div>
 
