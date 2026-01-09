@@ -19,9 +19,9 @@ const Header = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <img 
-              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/ngutz7c2_LIVZY%20INTERIORS%20LOGO.png" 
+              src="https://customer-assets.emergentagent.com/job_0efccfdf-9de8-43a3-a55b-5bcb422c48af/artifacts/5slt9gy9_logo3.png" 
               alt="livzyinteriors" 
-              className="h-20 w-auto"
+              className="h-24 w-auto"
             />
           </div>
 
